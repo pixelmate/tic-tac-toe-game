@@ -7,7 +7,7 @@ function App() {
       <div className='game'>
         <h1>Tic Tac Toe</h1>
         <Board />
-        {/* <div>game board</div> */}
+
         <div className='Reset_button'>
           <button className='btn btn-primary'>Reset</button>
         </div>
